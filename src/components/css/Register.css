@@ -1,0 +1,14 @@
+.register-main{
+    height:100vh;
+    width:100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.register-container{
+
+    height: 220px;
+    width: 200px;
+    background-color: aqua;
+}

@@ -1,0 +1,42 @@
+{
+  "users": [
+    {
+      "post": {
+        "name": "vishal",
+        "email": "v4@gmail.com"
+      },
+      "id": 1
+    },
+    {
+      "post": {
+        "name": "vishal",
+        "email": "v4@gmail.com"
+      },
+      "id": 2
+    },
+    {
+      "post": {
+        "name": "kunal",
+        "email": "v4@gmail.com"
+      },
+      "id": 3
+    },
+    {
+      "post": {
+        "name": "rajma",
+        "email": "v4@gmail.com"
+      },
+      "id": 4
+    },
+    {
+      "id": 5
+    },
+    {
+      "post": {
+        "name": "vaish",
+        "email": "v@gmail.com"
+      },
+      "id": 6
+    }
+  ]
+}

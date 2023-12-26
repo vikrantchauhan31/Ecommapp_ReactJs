@@ -1,0 +1,51 @@
+.footer-dis{
+    background-color:black;
+    color: aliceblue;
+    /* display: grid;
+    grid-template-rows: 1fr 1fr 1fr; */
+    /* display: flex;
+    flex-direction: row; */
+    height: 180px;
+    width: 100%;
+    margin-bottom: 0%;
+    padding-bottom: 0%;
+    padding: 10px;
+
+
+}
+.third-main a span{
+    text-decoration: none;
+    margin-left: 30px;
+}
+.third-main2 a{
+    text-decoration: none;
+    color: aliceblue;
+    margin-left: 30px;
+   
+}
+.third-main3 a{
+    text-decoration: none;
+    color: aliceblue;
+    margin-left: 30px;
+
+}
+
+.third-main1 a:hover{
+   
+}
+.third-main2 a:hover{
+    text-decoration:wavy;
+    color: firebrick;
+}
+.third-main3 a:hover{
+    text-decoration:double;
+    color: firebrick;
+}
+
+.sec-main{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    /* height: 100%;
+    width: 100%; */
+   
+}

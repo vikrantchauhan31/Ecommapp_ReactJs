@@ -1,0 +1,46 @@
+.card{
+   
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+    background-color: aliceblue;
+    box-shadow: 0px 12px 15px 0px black;
+    padding: 10px;
+    border-radius: 20px;
+    margin-right: 2%;
+    
+}
+
+.btn-plus{
+    color: black;
+    background-color: orange;
+    border-radius: 50%;
+    height: 30px;
+    width: 30px;
+    font-size:x-large;
+    margin-top: 18px;
+    margin-right: 10px;
+}
+.btn-minus{
+    color: black;
+    background-color: orange;
+    border-radius: 50%;
+    height: 30px;
+    width: 30px;
+    font-size:x-large;
+    margin-top: 18px;
+}
+.card-foot{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.card-foot button:hover{
+    color: black;
+    background-color:greenyellow;
+}
+
+.add-sub{
+    display: flex;
+    flex-direction: row;
+}
